@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123162346817",
+    "project_id": "fir-getx-app-debdd",
+    "storage_bucket": "fir-getx-app-debdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123162346817:android:3b00a1698c7d7459780dc0",
+        "android_client_info": {
+          "package_name": "com.getx_app.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123162346817-bv220usqiapoq6mj3ll9ivtcsgq2seut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvaeRdHRdv8sBVEKSZhfDUGywLVOC-c8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123162346817-bv220usqiapoq6mj3ll9ivtcsgq2seut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
